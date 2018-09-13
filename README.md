@@ -2,3 +2,4 @@
 
 This repository contains assignments, solutions, and collaborative projects for NYU CUSP Principles of Urban Informatics 2018.
 
+intentionally making conflict
