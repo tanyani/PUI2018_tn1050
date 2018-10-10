@@ -1,4 +1,8 @@
-# HW5 - Assignment 2
+# HW5
+
+# Assignment 1 - I reviewed Andrew Hill's Citibike Project Proposal (ah4790).
+
+# Assignment 2
 ### Group Members: Tanya Nabila, Rufei Sheng, Borong
 
 | **Statistical Analyses**    | **IV(s)**                                                                                                                  | **IV type(s)**                                     | **DV(s)**                                                                | **DV type(s)** | **Control Var** | **Control Var type** | **Question to be answered**                                                                                                      | **_H0_**                                                                                                                                      | **alpha** | **link to paper**                                                                              |
@@ -10,9 +14,13 @@
 *(Tables generated from https://www.tablesgenerator.com/markdown_tables#)*
 
 <br>
-# Major Plots from Correlation article
+## Major Plots from Correlation article
 ![alt text](plots/correlation-plot.png)
-# Major Plots from ANOVA article
+## Major Plots from ANOVA article
 ![alt text](plots/anova-plot.jpeg)
-# Major Plots from Logistic Regression article
+## Major Plots from Logistic Regression article
 ![alt text](plots/logisticregression-plot.png)
+
+# Assignment 3 - Angel (cl4855) helped me with the statistical side of things in this part of the homework.
+
+# Assignment 4 - Angel (cl4855) helped me with the statistical side of things in this part of the homework.
