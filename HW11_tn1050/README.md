@@ -11,6 +11,8 @@ Optional: [Is Seattle Really Seeing an Uptick In Cycling?](https://jakevdp.githu
 
 ### Assignment 1. Work from the [skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW11_fb55/subway_timeseries_instructions2.ipynb) with inline instructions.
 **Turn in as a notebook on your repo, as usual**, you can work in groups as usual, have a statement of the work balance in the group as usual.
+This homework 
+I tried. I really tried. 
 
 ### Assignment 2. Improve your plot from HW8 based on the feedback you recieved from your classmates (let me know if you did not recieve feedback and I will comment on your original plot)
 Timur, who reviewed my plot, suggested that I add the timeframe of when the data was collected. Thanks Timur!
